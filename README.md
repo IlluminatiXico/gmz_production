@@ -39,6 +39,8 @@ Follow the instructions below to add a new place of farm:
 ## Create recipe for production
 
 In this script you can create a recipe to produce the item:
+
+
 ![enter image description here](https://i.imgur.com/qmOdItc.png)
 
 In the image we have two properties:
