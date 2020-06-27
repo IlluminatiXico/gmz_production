@@ -12,8 +12,10 @@ It is a simple script developed to FiveM that allow you to create farms and prod
 
  **Dependencies**:
 
+
  - vrp_notify (could be changed for any another one)
  - vrp_emotes
+ - vrp_progress
 
 # How to install
 
