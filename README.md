@@ -23,7 +23,7 @@ It is a simple script developed to FiveM that allow you to create farms and prod
 # How to setup
 
 Open **config.lua**
-Follow the instructions to add a new place of farm:
+Follow the instructions below to add a new place of farm:
  
 |       Variable         |Description                          |Variable Type                         |
 |----------------|-------------------------------|-----------------------------|
@@ -34,4 +34,4 @@ Follow the instructions to add a new place of farm:
 |marker|`show up a green marker in farm position`            |boolean|
 |duration|`time to end the farm in seconds`            |int            |
 |anim|`play animations during the farm (vrp_emotes is necessary)`            |string            |
-|permissions|`need permissions to product?`            |string array            |
+|permissions|`need permissions to produce?`            |string array            |
