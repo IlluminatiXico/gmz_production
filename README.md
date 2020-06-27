@@ -53,4 +53,5 @@ In the image we have two properties:
 | recipe| Set the recipe items that are necessary to produce items from receiveItems |
 
 > **Note:** recipe can receive nil value.
+
 > **Note2:** do no change the parameter: enabledToReceive
