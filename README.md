@@ -1,8 +1,6 @@
 # Farm & Production System
 It is a simple script developed to FiveM that allow you to create farms and productions places anywhere around the map.
 
-Example: https://youtu.be/gTY9xA2xDvg
-
  - Easy to set up
  - Easy to change
  
@@ -37,3 +35,17 @@ Follow the instructions below to add a new place of farm:
 |duration|`time to end the farm in seconds`            |int            |
 |anim|`play animations during the farm (vrp_emotes is necessary)`            |string            |
 |permissions|`need permissions to produce?`            |string array            |
+
+## Create recipe for production
+
+In this script you can create a recipe to produce the item:
+![enter image description here](https://i.imgur.com/qmOdItc.png)
+
+In the image we have two properties:
+
+| Propertie | Description |
+|--|--|
+| receiveItems | Set the items you will receive after complete the production |
+| recipe| Set the recipe items that are necessary to produce items from receiveItems |
+
+> **Note:** recipe can receive nil value.
