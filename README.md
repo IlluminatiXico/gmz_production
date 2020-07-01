@@ -1,6 +1,9 @@
 # Farm & Production System
 It is a simple script developed to FiveM that allow you to create farms and productions places anywhere around the map.
 
+Join in GMZ Community: https://discord.gg/J2MVhGJ
+
+
 Example vídeo: https://www.youtube.com/watch?v=gTY9xA2xDvg
 
  - Easy to set up
